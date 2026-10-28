@@ -1,0 +1,1 @@
+matplotlib   # optional, only needed for benchmark plots
